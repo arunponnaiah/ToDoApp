@@ -2,10 +2,6 @@
 
 ToDoApp is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: Arun Ponnaiah
-
-Time spent: 6 hours spent in total
-
 ## User Stories
 
 The following **required** functionality is completed:
@@ -18,5 +14,4 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/FFPNSIR' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='http://imgur.com/FFPNSIR' title='Video Walkthrough' width='400' height='600' alt='Video Walkthrough' />
