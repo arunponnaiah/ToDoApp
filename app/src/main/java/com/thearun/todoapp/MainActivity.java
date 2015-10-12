@@ -58,7 +58,6 @@ public class MainActivity extends AppCompatActivity {
                 items.remove(pos);
                 itemsAdapter.notifyDataSetChanged();
                 writeItems();
-                return true;
             }
 
         });
