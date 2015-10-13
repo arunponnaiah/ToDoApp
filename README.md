@@ -14,4 +14,4 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/FFPNSIR' title='Video Walkthrough' width='1000' height='1000' alt='Video Walkthrough' />
+![](http://imgur.com/FFPNSIR')
