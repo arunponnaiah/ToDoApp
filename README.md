@@ -14,4 +14,4 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-[![VideoWalkthrough](http://imgur.com/FFPNSIR)]
+![ToDoApp](https://github.com/arunponnaiah/ToDoApp/blob/master/resource/todo_demo.gif)
